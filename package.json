@@ -1,0 +1,23 @@
+{
+  "name": "guessinggame",
+  "version": "1.0.0",
+  "description": "a guessing game with backend for high scores",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssairafe/nodeintro.git"
+  },
+  "author": "saria sairafe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssairafe/nodeintro/issues"
+  },
+  "homepage": "https://github.com/ssairafe/nodeintro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
